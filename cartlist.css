@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+.megan-page {
+    background: #333;
+    /* width: 90%; */
+}
+
+.megan-flows {
+    margin: 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+}
+
+.megan-flows img {
+    width: 50px;
+}
+
+.megan-flows h2 {
+    font-weight: 500;
+    font-size: 20px;
+    color: blue;
+}
+
+.megan-flows h3 {
+    color: #fff;
+}
+
+span {
+    color: aqua;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.cart-order {
+    background: rebeccapurple;
+    height: 20%;
+}
+
+.cart-order p {
+    color: #fff;
+    font-weight: 600;
+    font-size: 30px;
+}
